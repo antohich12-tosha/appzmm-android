@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Appzmm.ru</string>
+    <string name="author_name">by Antosha</string>
+    <string name="loading">Load…</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Главная</string>
+    <string name="nav_tasks">Задачи</string>
+    <string name="nav_project">Проект X</string>
+    <string name="nav_plus">Создать</string>
+    
+    <!-- Error screen -->
+    <string name="no_connection">Нет подключения</string>
+    <string name="check_connection">Проверьте интернет-соединение</string>
+    <string name="retry">Повторить</string>
+    <string name="error_loading">Ошибка загрузки</string>
+    
+    <!-- Plus menu -->
+    <string name="create_new">Создать новый</string>
+    <string name="new_task">Новая задача</string>
+    <string name="new_task_desc">Создать новую задачу</string>
+    <string name="new_project">Новый проект</string>
+    <string name="new_project_desc">Создать новый проект</string>
+    <string name="new_page">Новая страница</string>
+    <string name="new_page_desc">Создать новую страницу</string>
+    <string name="cancel">Отмена</string>
+    
+    <!-- File chooser -->
+    <string name="choose_file">Выбрать файл</string>
+</resources>
